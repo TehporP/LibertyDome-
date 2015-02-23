@@ -1,0 +1,51 @@
+---
+MOD:
+  - 3:
+      Desc: 简述如何防止神秘时代扭曲DEBUFF的出现方法
+      Ans: 让自己得到扭曲守护这个buff
+  - 1:
+      Desc: Gregtech 5的汉化者是
+      A: TehporP/DerekChan/Zhanghandsome
+      B: TehproP/DerekChan/Zhanghandsome
+      C: Tiramisu
+      D: Marco_V
+      Ans: A
+  - 5:
+      Desc: 在只知道 物品id的(也就是说我不知道这个物品是什么)情况下,如何 使用NEI查询 这个物品的 用途
+      Ans: 打开背包,在正下方的搜索栏输入物品ID,出结果后用鼠标指针指着物品,按下U
+  - 3:
+      Desc: 简述两种炼钢的方法
+      Ans: RC高炉/GT高炉/IC高炉
+  - 3:
+      Desc: 简述两种产生蒸汽的方法
+      Ans: RC锅炉/GT锅炉/IC锅炉  
+  - 2
+      Desc: 如何获得魔导手册
+      Ans: 发展右键书架方块
+  - 4
+      Desc: 以下哪种DEBUFF是神秘时代特有的
+      A: 反常之饥 
+      B: 辐射 
+      C: 隐身 
+      D: 速掘
+      Ans: A
+  - 3
+      Desc: 神秘时代因为扭曲所产生的DEBUFF能否饮用牛奶来消除
+      Ans: 不能
+  - 3
+      Desc: 你能不能在格雷科技5的存在下合成出工业exp打粉机
+      Ans: 不能
+  - 2 
+      Desc: Railcraft的焦炉的副产物为？
+      Ans: 木溜油
+  - 5 
+      Desc: 如何使用工业电力来驱动格雷机器
+      Ans: 首先将IC存电设备的输出贴着GT变压器输入,输出用GT电线输入,接到GT即可
+ORI:
+  - 4:
+      Desc: 下列哪种情况下玩家的移动速度最慢？
+      A: 按住Shift通过一块叠放在沙上的灵魂沙
+      B: 通过两块叠放在沙上的的蜘蛛网
+      C: 通过放置在冰块上的灵魂沙
+      D: 通过灵魂沙上的逆向岩浆
+      Ans: D
