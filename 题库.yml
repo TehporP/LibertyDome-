@@ -10,28 +10,17 @@ MOD:
   - 2:
       Desc: Railcraft的焦炉的副产物为？
       Ans: 木溜油
-  - 2:
-      Desc: 如何获得魔导手册？
-      Ans: 发展右键书架方块
+
   - 3:
       Desc: 神秘时代因为扭曲所产生的DEBUFF能否饮用牛奶来消除？
       A: 能
-	  B: 不能
-	  Ans: B
+      B: 不能
+      Ans: B
   - 3:
       Desc: 你能不能在格雷科技5的存在下合成出工业EXP打粉机？
       A: 能
-	  B: 不能
-	  Ans: B
-  - 3:
-      Desc: 简述如何防止神秘时代扭曲DEBUFF的出现方法？
-      Ans: 让自己得到扭曲守护这个BUFF。
-  - 3:
-      Desc: 简述两种炼钢的方法？
-      Ans: RC高炉/GT高炉/IC高炉
-  - 3:
-      Desc: 简述两种产生蒸汽的方法？
-      Ans: RC锅炉/GT锅炉/IC锅炉
+      B: 不能
+      Ans: B
   - 4:
       Desc: 以下哪种DEBUFF是神秘时代特有的？
       A: 反常之饥 
@@ -39,27 +28,8 @@ MOD:
       C: 隐身 
       D: 速掘
       Ans: A
-  - 5:
-      Desc: 如何使用工业电力来驱动格雷机器？
-      Ans: 首先将IC存电设备的输出贴着GT变压器输入，输出用GT电线输入，接到GT即可。
-  - 5:
-      Desc: 在只知道物品ID的（也就是说我不知道这个物品是什么）情况下，如何使用NEI查询这个物品的用途。
-      Ans: 打开背包,在正下方的搜索栏输入物品ID,出结果后用鼠标指针指着物品,按下U。
 
 ORI:
-  - 1:
-      Desc: Minecraft的最初开发者是谁？
-	  Ans: Notch
-  - 1:
-      Desc: Minecraft目前由那个公司拥有？
-	  Ans: Microsoft/Mojang
-  - 1:
-      Desc: Minecraft中文Wiki的地址？
-	  Ans: minecraft-zh.gamepedia.com
-  - 1:
-      Desc: Minecraft中文模组Wiki的地址？
-	  Ans: www.mcmod.cn
-  - 1:
       Desc: 原版中，基岩能否被破坏？
 	  A: 能
 	  B: 不能
@@ -67,9 +37,6 @@ ORI:
   - 2:
       Desc: BUD的英文全称及中文全称是？
 	  Ans: Block Update Detector / 方块更新感应器
-  - 2:
-      Desc: 在原版中，1秒 = 多少tick？
-	  Ans: 20
   - 2:
       Desc: 在原版中，如果你在落到粘液块上前按住了Shift，你会？
 	  A: 不受到伤害，并直接落地
@@ -85,9 +52,6 @@ ORI:
 	  D: 受到全部伤害，被弹飞到掉落高度的一半高度
 	  Ans: B
   - 3:
-      Desc: 在原版中，铁砧伤害的计算公式为？
-	  Ans: 铁砧伤害 = （下落高度-2）与0的最大值的1.5倍
-  - 3:
       Desc: 如果你在漫展上遇到了Dinnerbone，你应该？
 	  A: 求拥抱
 	  B: 求签名
@@ -95,34 +59,9 @@ ORI:
 	  D: 求披风
 	  Ans: A
   - 4:
-      Desc: 在原版中，阳光传感器 + 非门 的组合可以制作出什么？
-	  Ans: 路灯等……（在白天关闭，在晚上打开）
-  - 4:
-      Desc: 在原版中，如果你想摆放凋零的方块（即头颅+灵魂沙）但不让它生成，你可以借助？
-	  Ans: 活塞
-  - 4:
       Desc: 在原版中，下列哪种情况下玩家的移动速度最慢？
       A: 按住Shift通过一块叠放在沙上的灵魂沙
       B: 通过两块叠放在沙上的的蜘蛛网
       C: 通过放置在冰块上的灵魂沙
       D: 通过灵魂沙上的逆向岩浆
       Ans: D
-  - 5:
-      Desc: 在原版中，如何在创造模式从零开始建造一个末地传送门？
-	  Ans: 站在一个方块上，在周围建造一周末地传送门框架（玩家必须站在末地传送门的范围内），并装上末影之眼。
-  - 5:
-      Desc: 在官方服务端中，修改server.properties中什么的值能够改变服务器运行的端口？
-	  Ans: server-port
-  - 5:
-      Desc: 谁是SethBling？
-	  A: 红石触
-	  B: 建筑触
-	  C: 编程触
-	  D: 视频触
-	  Ans: A
-  - 5:
-      Desc: 请举出四个服务端的名字。
-	  Ans: Craftbukkit/Spigot/Cauldron/Sponge/Canary Mod/Glowstone等。
-  - 5:
-      Desc: 简述Bukkit与CraftBukkit的区别。
-	  Ans: CraftBukkit为服务端，Bukkit为API。
